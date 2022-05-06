@@ -1,19 +1,15 @@
-# symfony-template
-Implements xxx in symfony
+# pugx-autocompleter-bundle
+Implements PUGXAutocompleterBundle in symfony
 
-| Branch     | xxx Version | Symfony Version | PHP Version     |
-|------------|-------------|-----------------|-----------------|
-| [4.4.x][2] | `x.x`       | `4.4.x`         | `7.4` or higher |
+| Branch   | PUGXAutocompleterBundle Version | Symfony Version | PHP Version     |
+|----------|---------------------------------|-----------------|-----------------|
+| [1.x][1] | `1.x`                           | `4.4.x`         | `7.4` or higher |
 
 
-Read [xxx Docs](xxx)
-
-### Resources  
-- [xxx](xxx)
+Read [PUGXAutocompleterBundle Docs](https://github.com/PUGX/PUGXAutoCompleterBundle/blob/master/docs/index.md)
 
 
 ### License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-template/blob/master/LICENSE)
+The code is licensed under the [MIT License](https://github.com/habibun/pugx-autocompleter-bundle/blob/master/LICENSE)
 
-[1]: https://github.com/habibun/symfony-template/tree/5.4.x
-[2]: https://github.com/habibun/symfony-template/tree/4.4.x
+[1]: https://github.com/habibun/pugx-autocompleter-bundle/tree/1.x
