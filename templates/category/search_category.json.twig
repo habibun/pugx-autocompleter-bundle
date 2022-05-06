@@ -1,0 +1,11 @@
+{% block body %}
+    [
+        {% for author in results -%}
+            {{ {id: author.id, label: author.name, value: author.id}|json_encode|raw }}
+            {%- if not loop.last %} "," {% endif -%}
+        {%- endfor %}
+    ]
+{% endblock %}
+
+
+
